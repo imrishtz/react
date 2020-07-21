@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import SimpleTable from './SimpleTable';
-import './App.css'
+import '../css/App.css'
 
 const App = () => {
   const [ lang, setLang ] = useState('heb');

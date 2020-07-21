@@ -1,8 +1,8 @@
 import React, {useState, useEffect}  from 'react';
 import Table from 'react-bootstrap/Table'
 import ItemInfo from './ItemInfo'
-import viImage from "./images/vi.jpg";
-import xImage from "./images/x.jpg";
+import viImage from "../images/vi.jpg";
+import xImage from "../images/x.jpg";
 
 
 const items = [];
@@ -88,8 +88,6 @@ export default function SimpleTable(props) {
       props.lang === 'eng'?
         <tr key={item.name}>
           <ItemInfo align="left" item={item}/>
-            {/* <th align="left">{item.name}</th> */}
-
           {getRows(item)}
         </tr>
       :
@@ -103,15 +101,18 @@ export default function SimpleTable(props) {
   const getRows = (item) => {
     let ret = [];
     for (let i = 0; i < item.items.length; ++i) {
-      ret[i] = <td key={i} align="center"><img 
-          className="tableMarks"
-          alt={item.items[i] === "true" ?
-              "Vi" :
-              "X"}
-          src={item.items[i] === "true" ?
-              viImage :
-              xImage}>
-      </img></td>;
+      ret[i] = <td style={{ width: '6vw',
+                            color:  'black',
+                            backgroundColor: (item.items[i] === "true" ? 
+                            'rgb(29, 216, 69)':
+                            'rgb(224, 28, 28)')
+                          }}
+                    key={i}
+                    align="center">
+                    {item.items[i] === "true" ?
+                        'V' :
+                        'X'}
+              </td>;
     }
     return ret;
   }

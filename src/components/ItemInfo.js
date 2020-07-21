@@ -1,6 +1,6 @@
 import React  from 'react';
 import {OverlayTrigger, Popover} from 'react-bootstrap'
-import './ItemInfo.css'
+import '../css/ItemInfo.css'
 
 
 export default function ItemInfo(props) {

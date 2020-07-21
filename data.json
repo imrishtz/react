@@ -14,7 +14,7 @@
     },
     {
       "event_category": "night_trip",
-      "equipement": ["mat", "water", "cooler", "chairs", "towel", "sunglasses", "tent", "toilet_paper", "shoes", "sunscreen", "shade_canopy","hat", "sleeping_bag", "mattress", "speaker", "power_bank", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "table", "lighter", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "swimsuit", "tooth"]
+      "equipement": ["mat", "water", "cooler", "chairs", "towel", "sunglasses", "tent", "toilet_paper", "shoes", "sandals", "sunscreen", "shade_canopy","hat", "sleeping_bag", "mattress", "speaker", "power_bank", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "table", "lighter", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "swimsuit", "tooth"]
     },
     {
       "event_category": "zoola",

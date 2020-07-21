@@ -63,10 +63,13 @@ h1{
 
 th, td {
   padding: 8px 16px;
-  width: 5vw;
+  /*width: 5vw;*/
 }
 th {
   background:white;
+}
+td {
+  font-weight: bold;
 }
 
 #infoButton {
