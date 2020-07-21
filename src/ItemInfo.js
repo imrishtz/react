@@ -12,20 +12,16 @@ export default function ItemInfo(props) {
     let tips = [];
     if (props.item.tips !== undefined) {
       for (let i = 0; i < props.item.tips.length; ++i) {
-        console.log(props.item.tips[i]);
         tips[i] = <li key={i} dir={props.align === 'right' ? "RTL" : "LTR"}>{props.item.tips[i]}.</li>
       }
-      console.log(tips);
       isMoreInfo = true;
     }
 
     let buyingOptions = [];
     if (props.item.buying_options !== undefined) {
       for (let i = 0; i < props.item.buying_options.length; ++i) {
-        console.log(props.item.buying_options[i]);
         buyingOptions[i] = <li key={i} dir={props.align === 'right' ? "RTL" : "LTR"}><a target="_blank" rel="noopener noreferrer" href={props.item.buying_options[i]}>{props.item.buying_options[i]}</a></li>
       }
-      console.log(buyingOptions);
       isMoreInfo = true;
     }
 //padding-inline-start: 40px;

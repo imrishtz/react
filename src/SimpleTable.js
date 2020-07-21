@@ -36,8 +36,6 @@ export default function SimpleTable(props) {
   }, []);
 
   const handleColumnHeadLinePressed = (key) => {
-    //const d = event.elem;
-    console.log("im handling ColumnHeadLinePressed" + key);
     setSoloColumn((prevSoloColumn) => {
       if (prevSoloColumn === key) {
         return 'none';
