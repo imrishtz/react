@@ -117,7 +117,7 @@ export default function SimpleTable(props) {
   return (
     <div id="outerTable">{fetched === 7 ?
       <div>
-        <Table bordered >
+        <Table bordered>
           <thead className="tableHead">
             <tr>
               {createColumnHeadlines()}
