@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 4em;
+}
+
+.input {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1%;
+  background: rgb(126,228,78);
+  background: linear-gradient(4deg, rgba(126,228,78,1) 0%, rgba(83,195,29,1) 49%, rgba(80,231,8,1) 100%);
+}
+#outerTable {
+  padding: 0.5%;
+}
+.tableMarks {
+  width: 10%;
+  height: 4%;
+  padding: 0;
+}
+.MuiTableCell-root {
+  font-weight: bold !important;
+  font-size: 100% !important;
+}
+#tableContainer {
+  border-radius: 10px;
+  border: solid rgb(120, 120, 243);
+  background-color: rgb(233, 233, 255);
+  margin-bottom: 10px;
+}
+.table-bordered th, .table-bordered td { 
+  border-right: 1px solid #ddd!important ;
+  border-bottom: 1px solid #ddd!important ;
+}
+
+.tableHead {
+  position: sticky;
+  top: 0;
+}
+.table {
+  overflow-y: auto; 
+  border-collapse: collapse; 
+}
+.table thead th {
+  position: sticky; 
+  top: 0;
+  cursor: pointer;
+}
+
+th, td {
+  padding: 8px 16px;
+}
+th {
+  background:rgb(225, 225, 252);
+}
+
+#infoButton {
+  border: none;
+  background-color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  align-items: inherit;
+}

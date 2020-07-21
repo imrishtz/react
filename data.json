@@ -1,0 +1,24 @@
+{
+  "events_data": [
+    {
+      "event_category": "beach",
+      "equipement": ["water", "cooler", "chairs", "towel", "sunglasses", "swimsuit", "sunscreen", "shade_canopy", "slippers", "speaker", "hat", "matka", "frisbee"]
+    },
+    {
+      "event_category": "mil",
+      "equipement": ["towel", "sunglasses", "sunscreen", "slippers", "speaker", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "uniform", "sleeping_bag", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "tooth", "lighter"]
+    },
+    {
+      "event_category": "day_trip",
+      "equipement": ["water", "sunglasses", "drinks", "food", "toilet_paper", "shoes", "sunscreen", "hat", "lighter", "coffee", "leatherman"]     
+    },
+    {
+      "event_category": "night_trip",
+      "equipement": ["mat", "water", "cooler", "chairs", "towel", "sunglasses", "tent", "toilet_paper", "shoes", "sunscreen", "shade_canopy","hat", "sleeping_bag", "mattress", "speaker", "power_bank", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "table", "lighter", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "swimsuit", "tooth"]
+    },
+    {
+      "event_category": "zoola",
+      "equipement": ["mat", "water", "cooler", "chairs", "towel", "sunglasses", "tent", "toilet_paper", "shoes", "sunscreen", "shade_canopy","hat", "sleeping_bag", "mattress", "speaker", "power_bank", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "matka", "frisbee", "slippers", "table" , "lighter", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "swimsuit", "tooth"]
+    }
+  ]
+}

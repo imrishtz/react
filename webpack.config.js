@@ -10,10 +10,33 @@ module.exports = {
 
   module: {
     rules: [
-      { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
-    ],
+      { test: /\.js$/, 
+        exclude: /node_modules/, 
+        loader: 'babel-loader',
+        options: {
+          presets: ["es2015"]
+        },
+      },
+      {
+        test: /\.css$/,
+        use: [
+            { loader: 'style-loader' },
+            { loader: 'css-loader' },
+            { loader: 'less-loader' }
+        ]
+    },
+    {
+      test: /\.svg$/,
+      use: [
+        'file-loader',
+        'svg-transform-loader',
+      ]
+    },
+    ], 
   },
-
+  resolve: {
+    extensions: [".js", ".json", ".jsx", ".css"],
+  },
   plugins: process.argv.indexOf('-p') === -1 ? [] : [
     new webpack.optimize.UglifyJsPlugin({
       output: {

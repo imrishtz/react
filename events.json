@@ -1,0 +1,29 @@
+{
+  "events_name": [
+    {
+      "id": "beach",
+      "eng_name": "Beach",
+      "heb_name": "ים"
+    },
+    {
+      "id":"day_trip",
+      "eng_name": "Day trip",
+      "heb_name": "טיול יום"
+    },
+    {
+      "id":"night_trip",
+      "eng_name": "Over-Night trip",
+      "heb_name": "טיול כולל לינה"
+    },
+    {
+      "id": "zoola",
+      "eng_name": "Zoola at the beach",
+      "heb_name": "זולה בים"
+    },
+    {
+      "id": "mil",
+      "eng_name": "Reserve duty",
+      "heb_name": "מילואים"
+    }
+  ]
+}

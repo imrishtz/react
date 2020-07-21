@@ -1,0 +1,373 @@
+{
+  "equipement_name": [
+    {
+      "id": "towel",
+      "eng_name": "Towel",
+      "heb_name": "מגבת",
+      "eng_tips": [
+        "Consider taking your lightest towel",
+        "Better to keep your white towels at home",
+        "Travelers fiber Towels are light and small indeed, but can be very unpleasant "
+      ],
+      "heb_tips": [
+        "מומלץ לקחת איתך את המגבת הקלה ביותר",
+        "עדיף להימנע מלקחת מגבת לבנה החוצה",
+        "מגבות מטיילים העשויות מפייבר הן קלות וקטנות, אך עלולות להיות מאוד לא נעימות"
+      ],
+      "buying_options": [
+        "https://www.aradtextile.com/מגבות/product/צבעוני-קלאסי"
+      ]
+    },
+    {
+      "id": "sunglasses",
+      "eng_name": "Sunglasses",
+      "heb_name": "משקפי שמש",
+      "eng_tips": [
+        "Better to have a pair with around 80% blocking of light"
+      ],
+      "heb_tips": [
+        "מומלץ לרכוש משקפי שמש החוסמות כ-80% מהאור"
+      ],
+      "buying_options": [
+        "https://www.carolinalemke.co.il/"
+      ]
+    },
+    {
+      "id": "toilet_paper",
+      "eng_name": "Toylet Paper",
+      "heb_name": "נייר טואלט",
+      "eng_tips": [
+        "Usually one piece is enough"
+      ],
+      "heb_tips": [
+        "גליל אחת אמור להספיק"
+      ]
+    },
+    {
+      "id": "tent",
+      "eng_name": "Tent",
+      "heb_name": "אוהל",
+      "eng_tips": [
+        "Very impotant - always select a tent planned to contain at least 1 person more from your intentions (e.g. 2 presons tent is only for 1 preson with equipement)",
+        "On windy days, better to bring also some pegs and roaps"
+      ],
+      "heb_tips": [
+        "חשוב מאוד - בבחירת האוהל, תמיד בחר אוהל הנועד להכיל לפחות אדם אחד נוסף מכמה שאתה צריך(למשל, אוהל ל2 אנשים מתאים רק לאדם אחד עם ציוד)",
+        "בימים עם רוח חזקה, מומלץ להביא גם יתדות וחבלים"
+      ],
+      "buying_options": [
+        "https://shop.lametayel.co.il/352-אוהלים"
+      ]
+    },
+    {
+      "id": "sunscreen",
+      "eng_name": "Sunscreen",
+      "heb_name": "קרם הגנה",
+      "eng_tips": [
+        "One of the easiest ways to avoid cancer",
+        "wear reapply every two hours on skin exposed to the sun"
+      ],
+      "heb_tips": [
+        "אחת הדרכים הקלות ביותר להימנע מסרטן",
+        "מרח כל שעתיים בקירוב על כל פיסת עור החשופה לשמש"
+      ]
+    },
+    {
+      "id": "matka",
+      "eng_name": "Beach bat set",
+      "heb_name": "סט מטקות",
+      "eng_tips": [
+        "Please play only where you are not bothering other people",
+        "Don't forget the ball"
+      ],
+      "heb_tips": [
+        "אנא שחק רק במקום שאינך מפריע לאף אחד",
+        "אל תשכח לקחת את הכדור"
+      ],
+      "buying_options": [
+        "http://matkot1.co.il/",
+        "http://www.olympicsport.co.il/מטקות-עץ/"
+      ]
+    },
+    {
+      "id": "power_bank",
+      "eng_name": "Power bank",
+      "heb_name": "מטען נייד",
+      "eng_tips": [
+        "10000mAh capacity is recommended (3-4 rounds of charging for averege phone)"
+      ],
+      "heb_tips": [
+        "מומלצת סוללה עם תכולה של כ-10000mAh (3-4 טעינות של נייד ממוצע)"
+      ],
+      "buying_options": [
+        "https://ksp.co.il/?select=.1049..1070..1083.&kg=&list=1&sort=2&glist=1&uin=0&txt_search=&buy=&minprice=0&maxprice=0&intersect=&rintersect=&store_real="
+      ]
+    },
+    {
+      "id": "slippers",
+      "eng_name": "Slippers",
+      "heb_name": "כפכפים"
+    },
+    {
+      "id": "sandals",
+      "eng_name": "Sandals",
+      "heb_name": "סנדלים"
+    },
+    {
+      "id": "shoes",
+      "eng_name": "Shoes",
+      "heb_name": "נעליים",
+      "eng_tips": [
+        "Carring heavy gear? better have high (avoid sprained ankle) and supportive (avoid back pains) shoes"
+      ],
+      "heb_tips": [
+        "סוחב ציוד כבד? עדיף לנעול נעליים גבוהות (להימנע מנקעים) ותומכות (להימנע מכאבי גב)"
+      ]
+    },
+    {
+      "id": "speaker",
+      "eng_name": "Speaker",
+      "heb_name": "רמקול",
+      "eng_tips": [
+        "Till now, JBL speaker prvoe itself for being good value for money",
+        "In case you need something stronger, Proxima is recommended"
+      ],
+      "heb_tips": [
+        "JBL הוכיחה את עצמה כחברה לרמקולים ניידים עם תמורה לכסף",
+        "במידה ויש צורך ברמקול חזק יותר, Proxima מומלצת"
+      ],
+      "buying_options": [
+        "https://www.ivory.co.il/catalog.php?id=33366",
+        "https://www.soundshop.co.il/product/s-340"
+      ]
+    },
+    {
+      "id": "shade_canopy",
+      "eng_name": "Shade canopy",
+      "heb_name": "צילייה",
+      "eng_tips": [
+        "Otentic type shades are easy to install and very effective"
+      ],
+      "heb_tips": [
+        "ציליות כמו האותנטיק קלות להתקנה ויעילות מאוד"
+      ],
+      "buying_options": [
+        "https://www.otentik.co.il/חנות/"
+      ]
+    },
+    {
+      "id": "sleeping_bag",
+      "eng_name": "Bedding / Sleeping Bag",
+      "heb_name": "מצעים / שק שינה",
+      "eng_tips": [
+        "Sleeping bag: always check the tempature for not having too cold or hot night",
+        "Prefer Bedding? remember you need pillow, pillow cover, sheet, blanket, blanket cover",
+        "In any case, pillow will be nice"
+      ],
+      "heb_tips": [
+        "שק שינה: יש לבדוק תמיד את הטמפרטורה אליה נועד השק, כדי להימנע מלילות קרים או חמים מדי",
+        "יש העדפה למצעים? יש לזכור לקחת איתך כרית, ציפה לכרית, סדין, שמיכה וכיסוי שמיכה",
+        "בכל מקרה מומלץ לקחת כרית"
+      ]
+    },
+    {
+      "id": "mattress",
+      "eng_name": "Mattress",
+      "heb_name": "מזרן"
+    },
+    {
+      "id": "frisbee",
+      "eng_name": "Frisbee",
+      "heb_name": "פריזבי"
+    },
+    {
+      "id": "hat",
+      "eng_name": "Hat",
+      "heb_name": "כובע"
+    },
+    {
+      "id": "water",
+      "eng_name": "Water",
+      "heb_name": "מים לשתייה",
+      "eng_tips": [
+        "At least 4 liter a day is recommended"
+      ],
+      "heb_tips": [
+        "מומלץ לפחות 4 ליטר ליום"
+      ]
+    },
+    {
+      "id": "mat",
+      "eng_name": "Mat",
+      "heb_name": "מחצלת"
+    },
+    {
+      "id": "altush",
+      "eng_name": "Mosquito repellent",
+      "heb_name": "אלתוש",
+      "eng_tips": [
+        "It can cause flies to stay away as well (!!!)"
+      ],
+      "heb_tips": [
+        "טיפ של אלופים - אלתוש מסוגל להרחיק גם זבובים!"
+      ]
+    },
+    {
+      "id": "blindfold",
+      "eng_name": "Blindfold",
+      "heb_name": "כיסוי עיניים",
+      "eng_tips": [
+        "Can add some sleeping hours"
+      ],
+      "heb_tips": [
+        "עשוי להוסיף שעות שינה"
+      ]
+      
+    },
+    {
+      "id": "earplug",
+      "eng_name": "Earplug",
+      "heb_name": "אטמי אוזניים",
+      "eng_tips": [
+        "One can never know what the night holds for him"
+      ],
+      "heb_tips": [
+        "אין לדעת מה יהיה בלילה"
+      ]
+    },
+    {
+      "id": "cooler",
+      "eng_name": "Cooler",
+      "heb_name": "צידנית",
+      "eng_tips": [
+        "There are soft coolers which can be folded and hard coolers that can keep the cold better",
+        "Some coolers can even hold ice for above 3 days, buy one that fit exactly for your needs"
+      ],
+      "heb_tips": [
+        "ישנן צידניות רכות הניתנות לקיפול או קשיחות השומרות על קור טוב יותר",
+        "ישנן צידניות המסוגלות לשמור על קרח מעל 3 ימים, רכוש צידנית המתאימה לצרכיך"
+      ],
+      "buying_options": [
+        "http://ksp.co.il/?uin=103940",
+        "https://ksp.co.il/?uin=102799"
+      ]
+    },
+    {
+      "id": "chairs",
+      "eng_name": "Chairs",
+      "heb_name": "כיסאות",
+      "eng_tips": [
+        "3 points to consider when buying: weight, volume and comfortance"
+      ],
+      "heb_tips": [
+        "3 נקודות לקחת בחשבון בעת הקנייה: משקל, נפח ונוחות"
+      ]
+    },
+    {
+      "id": "table",
+      "eng_name": "Tabl",
+      "heb_name": "שולחן"
+    },
+    {
+      "id": "shampoo",
+      "eng_name": "Shampoo",
+      "heb_name": "שמפו"
+    },
+    {
+      "id": "deodorant",
+      "eng_name": "Deodorant",
+      "heb_name": "דאודורנט",
+      "eng_tips": [
+        "Don't pay above 15 nis, its a robbery"
+      ],
+      "heb_tips": [
+        "אל תשלם על דאודורנט מעל 15 שקלים, זה שוד לאור יום"
+      ]
+    },
+    {
+      "id": "soap",
+      "eng_name": "Soap",
+      "heb_name": "סבון"
+    },
+    {
+      "id": "uniform",
+      "eng_name": "Uniform",
+      "heb_name": "מדים",
+      "eng_tips": [
+        "Shirt, pants ,belt and shoes"
+      ],
+      "heb_tips": [
+        "חולצה, מכנס, חגורה ונעליים"
+      ]
+    },
+    {
+      "id": "tooth",
+      "eng_name": "Toothbrush & Toothpaste",
+      "heb_name": "משחה ומברשת שיניים"
+    },
+    {
+      "id": "swimsuit",
+      "eng_name": "Swimsuit",
+      "heb_name": "בגד-ים"
+    },
+    {
+      "id": "underwear",
+      "eng_name": "Underwear",
+      "heb_name": "תחתונים"
+    },
+    {
+      "id": "socks",
+      "eng_name": "Socks",
+      "heb_name": "גרביים"
+    },
+    {
+      "id": "shirts_pants",
+      "eng_name": "Shirts & Pants",
+      "heb_name": "חולצות ומכנסיים",
+      "eng_tips": [
+        "Consider the weather when choosing clothes, at night temperature is falling"
+      ],
+      "heb_tips": [
+        "יש להתחשב במזג האוויר בעת בחירת הבגדים, בלילה הטמפרטורות צונחות"
+      ]
+    },
+    {
+      "id": "leatherman",
+      "eng_name": "Leatherman",
+      "heb_name": "לדרמן",
+      "eng_tips": [
+        "Get the one with the scissors, solves 99% of the problems"
+      ],
+      "heb_tips": [
+        "רצוי להשיג את האחד עם המספריים, פותר 99% מהבעיות"
+      ],
+      "buying_options": [
+        "https://www.almog-tech.com/items/1808784-מולטיטול-תכליתי-Leatherman-Wave-לדרמן"
+      ]
+    },
+    {
+      "id": "lighter",
+      "eng_name": "Lighter",
+      "heb_name": "מצת",
+      "eng_tips": [
+        "ITS JUST A LIGHTER - WHAT DID YOU EXPECT TO FIND HERE!?"
+      ],
+      "heb_tips": [
+        "כולה מצת, מה ציפית למצוא פה.."
+      ]
+    },
+    {
+      "id": "coffee",
+      "eng_name": "Coffee set",
+      "heb_name": "פק\"ל קפה",
+      "eng_tips": [
+        "Ideal set: Finjan, stove, glasses, bag of coffee, some teapots, sugar and waffles",
+        "some folding wind-shild could be handy"
+      ],
+      "heb_tips": [
+        "ערכה אידיאלית: פינג'אן, גזייה, כוסות, שקית קפה נ'חלה, תיונים, סוכר וופלים",
+        "כיסוי רוח מתקפל עשוי להועיל"
+      ]
+    }
+  ]
+}
