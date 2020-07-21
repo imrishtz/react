@@ -12,19 +12,19 @@ export default function SimpleTable(props) {
   const [ soloColumn, setSoloColumn ] = useState('none');
 
   useEffect( () =>  {
-    fetch("../../data.json")
+    fetch("./data.json")
       .then(response => response.json())
       .then(result => {
           setData(result)
           setFetched((prevFetch) => prevFetch + 1)
       });
-    fetch("../../equipement.json")
+    fetch("./equipement.json")
     .then(response => response.json())
     .then(result => {
         setEquipement(result)
         setFetched((prevFetch) => prevFetch + 2)
     });
-    fetch("../../events.json")
+    fetch("./events.json")
     .then(response => response.json())
     .then(result => {
         setEvents(result)
@@ -33,7 +33,6 @@ export default function SimpleTable(props) {
   }, []);
 
   const handleColumnHeadLinePressed = (key) => {
-    //const d = event.elem;
     setSoloColumn((prevSoloColumn) => {
       if (prevSoloColumn === key) {
         return 'none';
