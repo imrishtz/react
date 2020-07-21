@@ -1,8 +1,8 @@
 import React, {useState, useEffect}  from 'react';
 import Table from 'react-bootstrap/Table'
 import ItemInfo from './ItemInfo'
-import viImage from "./images/vi.png";
-import xImage from "./images/x.png";
+import viImage from "./images/vi.jpg";
+import xImage from "./images/x.jpg";
 
 
 const items = [];
@@ -36,6 +36,7 @@ export default function SimpleTable(props) {
   }, []);
 
   const handleColumnHeadLinePressed = (key) => {
+    //const d = event.elem;
     setSoloColumn((prevSoloColumn) => {
       if (prevSoloColumn === key) {
         return 'none';
