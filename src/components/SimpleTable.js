@@ -1,9 +1,6 @@
 import React, {useState, useEffect}  from 'react';
 import Table from 'react-bootstrap/Table'
 import ItemInfo from './ItemInfo'
-import viImage from "../images/vi.jpg";
-import xImage from "../images/x.jpg";
-
 
 const items = [];
 
@@ -101,7 +98,7 @@ export default function SimpleTable(props) {
   const getRows = (item) => {
     let ret = [];
     for (let i = 0; i < item.items.length; ++i) {
-      ret[i] = <td style={{ width: '6vw',
+      ret[i] = <td style={{ width: '10vw',
                             color:  'black',
                             backgroundColor: (item.items[i] === "true" ? 
                             'rgb(29, 216, 69)':
@@ -120,7 +117,7 @@ export default function SimpleTable(props) {
   return (
     <div id="outerTable">{fetched === 7 ?
       <div>
-        <Table bordered>
+        <Table >
           <thead className="tableHead">
             <tr>
               {createColumnHeadlines()}

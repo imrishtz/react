@@ -1,11 +1,6 @@
 {
   "events_name": [
     {
-      "id": "beach",
-      "eng_name": "Beach",
-      "heb_name": "ים"
-    },
-    {
       "id":"day_trip",
       "eng_name": "Day trip",
       "heb_name": "טיול יום"

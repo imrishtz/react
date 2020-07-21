@@ -56,7 +56,7 @@ export default function ItemInfo(props) {
   );
 
   return (
-    <th style={{textAlign: props.align}}>
+    <th style={{textAlign: props.align, width: '10vw'}}>
       <OverlayTrigger trigger={'click'} rootClose  placement={props.align === 'left' ? 'right' : 'left'} overlay={popover} >
         <button style={{textAlign: props.align, cursor: 'pointer'}} id="infoButton" variant="success">{props.item.name}</button>
       </OverlayTrigger>

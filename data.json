@@ -1,10 +1,6 @@
 {
   "events_data": [
     {
-      "event_category": "beach",
-      "equipement": ["water", "cooler", "chairs", "towel", "sunglasses", "swimsuit", "sunscreen", "shade_canopy", "slippers", "speaker", "hat", "matka", "frisbee"]
-    },
-    {
       "event_category": "mil",
       "equipement": ["towel", "sunglasses", "sunscreen", "slippers", "speaker", "deodorant", "shampoo", "soap", "earplug", "blindfold", "altush", "uniform", "sleeping_bag", "coffee", "leatherman", "shirts_pants", "socks", "underwear", "tooth", "lighter"]
     },
