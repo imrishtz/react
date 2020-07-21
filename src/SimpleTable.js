@@ -1,8 +1,8 @@
 import React, {useState, useEffect}  from 'react';
 import Table from 'react-bootstrap/Table'
 import ItemInfo from './ItemInfo'
-import viImage from "./images/vi.svg";
-import xImage from "./images/x.svg";
+import viImage from "./images/vi.png";
+import xImage from "./images/x.png";
 
 
 const items = [];

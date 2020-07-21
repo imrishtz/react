@@ -32,6 +32,18 @@ module.exports = {
         'svg-transform-loader',
       ]
     },
+    {
+      test: /\.jpg$/,
+      use: [
+        'file-loader',
+      ]
+    },
+    {
+      test: /\.png$/,
+      use: [
+        'file-loader',
+      ]
+    },
     ], 
   },
   resolve: {
